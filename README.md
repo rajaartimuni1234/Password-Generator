@@ -5,5 +5,5 @@
 recently create frontend project VS Code landing page through html and tailwind
 
 _Here is the deploy link_
-[VS Code clone Webiste](https://6503fa42a69fa05f67b2b0f4--delicate-frangipane-1bd10e.netlify.app/#)
+[Password Generator](https://6504041302e6b863e7918e43--funny-starlight-3f6468.netlify.app/)
 _You can go through and compare it with real discord landing page._
